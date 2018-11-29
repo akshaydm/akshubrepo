@@ -1,3 +1,7 @@
-https://s3.amazonaws.com/day1tcs/TCS-+Devops+Engg+-+Attendance+Sheet.xlsx
-
-mod1
+public class Hello{
+	public static void main(String[] args0{
+		for (int i=1;i,=20;i++){
+			System.out.println("Hello Akshay);
+		}
+	}
+}
